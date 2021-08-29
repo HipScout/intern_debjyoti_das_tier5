@@ -1,0 +1,60 @@
+.body1{
+    background-color: rgb(192, 19, 71);
+}
+#click1{
+    background-color: #f19f40;
+     border:2px solid #000000;
+
+    color:black ;
+    
+    padding: 8px 15px;
+    font-size: 20px;
+    border-radius: 12px;
+    font-weight: bold;
+    display: inline-block;
+}
+ 
+#click1:hover
+ {    background-color:#4F0E0E;
+        color: white;
+      }
+#click2{
+    background-color:rgb(155, 87, 41);
+    border:2px solid #0a1418;
+
+   color:black ;
+   
+   padding: 8px 15px;
+   font-size: 20px;
+   border-radius: 12px;
+   font-weight: bold;
+   display: inline-block;
+
+}
+#click2:hover
+ {    background-color:rgb(99, 10, 10);
+        color: white;
+      }
+
+
+
+      #searchName{
+        background-color:#f7f5f2;
+        padding: 8px 15px;
+        border:black;
+        font-size: 18px;
+        margin-top: 10px;
+     
+      }
+     label{
+         background-color:gainsboro;
+         border:2px solid #ce1836;
+
+         
+         padding: 8px 15px;
+         font-size: 20px;
+         border-radius: 12px;
+         font-weight: bold;
+     
+     }
+   
