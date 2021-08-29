@@ -6,7 +6,6 @@
      border:2px solid #000000;
 
     color:black ;
-    
     padding: 8px 15px;
     font-size: 20px;
     border-radius: 12px;
@@ -36,8 +35,6 @@
         color: white;
       }
 
-
-
       #searchName{
         background-color:#f7f5f2;
         padding: 8px 15px;
@@ -49,8 +46,6 @@
      label{
          background-color:gainsboro;
          border:2px solid #ce1836;
-
-         
          padding: 8px 15px;
          font-size: 20px;
          border-radius: 12px;
