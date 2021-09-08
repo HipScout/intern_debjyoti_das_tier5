@@ -3,6 +3,7 @@
     "description": "Build an Extension!",
     "version": "1.0",
     "manifest_version": 3,
+    "permissions":["notifications", "tabs","alarms","scripting","activeTab"],
     "background": {
       "service_worker": "background.js"
     },
